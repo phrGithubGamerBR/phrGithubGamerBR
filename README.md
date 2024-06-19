@@ -5,5 +5,5 @@
 - 🤔 I need help from time to time because I'm still learning programming
 - 💬 age: 13
 - 📫 Well, if you want to talk to me on discord, my username is: phrgamerbr1692
-- 😄 Pronouns: I am Brazilian 🇧🇷
-- ⚡ Fun fact: suco de uva kakakaka
+- 😄 Pronouns: PHR Gamer BR
+- ⚡ Fun fact: Sou BR p#
