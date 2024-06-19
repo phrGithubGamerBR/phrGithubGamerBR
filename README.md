@@ -1,16 +1,9 @@
 👋 Hi, my name is PHR.
 - 🔭 I don't know how to program properly but I'm learning
 - 🌱 Well, what I like to do most is program FNF
-
-<!--
-**phrGithubGamerBR/phrGithubGamerBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I collaborate alone
+- 🤔 I need help from time to time because I'm still learning programming
+- 💬 age: 13
+- 📫 Well, if you want to talk to me on discord, my username is: phrgamerbr1692
+- 😄 Pronouns: I am Brazilian 🇧🇷
+- ⚡ Fun fact: suco de uva kakakaka
