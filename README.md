@@ -1,5 +1,5 @@
 - 🔭 FNF
-- 🌱 Haxe(Flixel), lua
+- 🌱 a little Haxe and Lua(*programming beginner*)
 - 📫 Discord: phrgamerbr1692
 - 😄 Phr
 - ⚡ learn a little more about programming
